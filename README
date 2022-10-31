@@ -1,0 +1,11 @@
+This program implements the upwind method for solving the kinematic
+wave equation on a drain direction map. The drain direction map has 
+been created using backwards propegation.
+
+
+
+This program makes use of the matplotlibcpp header file
+
+https://github.com/Cryoris/matplotlib-cpp
+
+and has been added to the external folder for convenience.
