@@ -1,0 +1,5 @@
+**/.ccls*
+**/build/*
+**/bin/*
+**/lib/*
+**/external/*
